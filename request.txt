@@ -1,0 +1,51 @@
+COSMIC MUTATION DATA
+[1:A] Gene name $ .*TP53.*
+[2:B] Accession Number $ None
+[3:C] Gene CDS length $ None
+[4:D] HGNC id $ None
+[5:E] Sample name $ None
+[6:F] Sample id $ None
+[7:G] Id tumour $ None
+[8:H] Primary Site $ None
+[9:I] Site Subtype 1 $ None
+[10:J] Site Subtype 2 $ None
+[11:K] Site Subtype 3 $ None
+[12:L] Primary Histology $ None
+[13:M] Histology Subtype 1 $ None
+[14:N] Histology Subtype 2 $ None
+[15:O] Histology Subtype 3 $ None
+[16:P] Genome-wide screen $ None
+[17:Q] GENOMIC_MUTATION_ID $ None
+[18:R] LEGACY_MUTATION_ID $ None
+[19:S] MUTATION_ID $ None
+[20:T] Mutation CDS $ None
+[21:U] Mutation AA $ None
+[22:V] Mutation Description $ None
+[23:W] Mutation zygosity $ None
+[24:X] LOH $ None
+[25:Y] GRCh $ None
+[26:Z] Mutation genome position $ None
+[27:AA] Mutation strand $ None
+[28:AB] SNP $ None
+[29:AC] Resistance Mutation $ None
+[30:AD] FATHMM prediction $ None
+[31:AE] FATHMM Score $ None
+[32:AF] Mutation somatic status $ None
+[33:AG] Pubmed_PMID $ None
+[34:AH] Id Study $ None
+[35:AI] Sample Type $ None
+[36:AJ] Tumour origin $ None
+[37:AK] Age $ None
+[38:AL] HGVSP $ None
+[39:AM] HGVSC $ None
+[40:AN] HGVSG $ None
+FINDLINE_M: .*
+
+COSMIC EXPRESSION DATA
+[1:A] Sample id $ None
+[2:B] Sample name $ None
+[3:C] Gene name $ cog8
+[4:D] Regulation $ None
+[5:E] Z-score $ None
+[6:F] Id Study $ None
+FINDLINE_E: .*cog8 over
